@@ -355,7 +355,7 @@ function determineSecurityState(vulnerabilities) {
   return securityState;
 }
 
-<code_placeholder></code_placeholder>
+<code_placeholder>
 
 app.get("/scan", async (req, res) => {
   try {
